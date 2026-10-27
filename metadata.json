@@ -1,0 +1,6 @@
+{
+  "name": "Ndola Teaching Hospital - Hospital Management System",
+  "description": "Comprehensive Electronic Hospital Management System for Ndola Teaching Hospital (NTH) managing patient records, staff directories, admissions, clinical departments, pharmacy, and laboratory diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
